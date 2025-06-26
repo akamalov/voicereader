@@ -1,0 +1,14 @@
+# Voice Reader specific ignores
+CLAUDE.md
+GEMINI.md
+.claude/
+.gemini/
+
+# Android specific ignores
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+*.iml
+.DS_Store
