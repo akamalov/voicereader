@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Voice Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_document">Add Document</string>
+    <string name="no_documents">No documents in your library</string>
+    <string name="add_files_to_start">Add EPUB, PDF, or text files to get started</string>
+    <string name="table_of_contents">Table of Contents</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="previous_chapter">Previous Chapter</string>
+    <string name="next_chapter">Next Chapter</string>
+    <string name="rewind">Rewind 10 seconds</string>
+    <string name="forward">Forward 10 seconds</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="voice_settings">Voice Settings</string>
+    <string name="select_voice">Select Voice</string>
+    <string name="speech_rate">Speech Rate</string>
+    <string name="speech_pitch">Speech Pitch</string>
+    <string name="reading_settings">Reading Settings</string>
+    <string name="auto_bookmark">Auto-bookmark on pause</string>
+    <string name="background_playback">Background playback</string>
+    <string name="about">About</string>
+    <string name="app_version">Voice Reader v1.0</string>
+    <string name="app_description">A text-to-speech reader for EPUB, PDF, and text files</string>
+</resources>
